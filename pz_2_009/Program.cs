@@ -2,8 +2,9 @@
 using System.Collections.Generic;
 
 public delegate void del(); // делегатикус
-namespace pz_2_009
+namespace pz_2_009 
 {
+    // Смирнов, Пустовалов, 6 вариант
     class Посетитель // тот самый visitor ну на русском посетитель
     {
         public static int количество_посетителей = 1; 
